@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**.
-- I always like working in **Visual Studio Code** Environment.
+- I always like working in **Visual Studio Code** Environment.!
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 </br>
@@ -27,26 +27,30 @@
 
 </p
 
-<br />
+ </br>
 
 ### Languages and Tools:
 
-<img align="center"  src="./Skillicons/html.png" alt="" height="40" width="40" />
-<img align="center" src="./Skillicons/css.png" alt="" height="40" width="40" />
-<img align="center" src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/tailwaind.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/js-file.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/react.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/metarial ui.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/firebase.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/express.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/node js.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/mongodb.png" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
+<img align="left"  src="./Skillicons/html.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/css.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/bootstrap.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/tailwaind.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/js-file.png" alt="" height="40" width="40"/>
+<img align="left" src="./Skillicons/react.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/metarial ui.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/firebase.png" alt="" height="40" width="40"/>
+<img align="left" src="./Skillicons/github.png" alt="" height="40" width="40"/>
+<img align="left" src="./Skillicons/express.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/node js.png" alt="" height="40" width="40" />
+<img align="left" src="./Skillicons/mongodb.png" alt="" height="40" width="40" />
+ </br>
+  
+ </br> 
+ </br> 
 
-<br />
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></br> 
+**Github Stats:** 
 
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
  </br>
