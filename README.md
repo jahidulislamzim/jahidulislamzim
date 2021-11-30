@@ -31,8 +31,8 @@
 
 ### Languages and Tools:
 
-<img align="center"  src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img align="center"  src="./Skillicons/html.png" alt="" height="40" width="40" />
+<img align="center" src="./Skillicons/css.png" alt="" height="40" width="40" />
 <img align="center" src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img align="center" src="./Skillicons/tailwaind.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img align="center" src="./Skillicons/js-file.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
