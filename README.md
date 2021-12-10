@@ -32,18 +32,18 @@
 
 ### Languages and Tools:
 
-<img align="center"  src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/tailwaind.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/js-file.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/react.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/metarial ui.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/firebase.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/express.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/node js.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img align="center" src="./Skillicons/mongodb.png" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/tailwaind.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/js-file.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/react.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/metarial ui.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/firebase.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/express.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/node js.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/mongodb.png" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
 
 <br />
 
