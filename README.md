@@ -32,6 +32,7 @@
 
 ### Languages and Tools:
 
+<p align="left">
 <img src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
@@ -44,7 +45,7 @@
 <img src="./Skillicons/express.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/node js.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/mongodb.png" alt="" height="40" width="40"  style='margin-top:15px; margin-left:15px '/>
-
+</p>
 <br />
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
