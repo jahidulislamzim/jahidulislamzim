@@ -3,7 +3,9 @@
 ### HI THERE !
 
 <h1>I'M Jahidul Islam Zim</h1>
-<h3>Jr. MERN Stack Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://jahidulislamzim.com/)
+
 
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
@@ -64,6 +66,8 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidulislamzim&theme=radical&hide_border=true"/>
 </p>
 
+<a href="http://www.github.com/jahidulislamzim"><img src="https://activity-graph.herokuapp.com/graph?username=UbuntuEvangelist&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
@@ -73,3 +77,4 @@
   </a>
  </p>
 </details>
+
