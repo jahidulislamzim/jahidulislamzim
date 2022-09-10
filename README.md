@@ -56,8 +56,10 @@
  </br>
  <p align="center">
   <a href="https://github.com/jahidulislamzim">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jahidulislamzim&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jahidulislamzim&show_icons=true&locale=en&theme=radical&count_private=true" alt="jahidulislamzim">
   </a>
+
+
   <a href="https://github.com/jahidulislamzim/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jahidulislamzim&layout=compact&theme=radical&langs_count=6" />
   </a>
