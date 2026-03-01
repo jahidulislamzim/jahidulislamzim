@@ -10,7 +10,7 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📫 E-mail : **jahidulislamzim845@gmail.com**
-- 📝 Portfolio :[jahidulislamzim.netlify.app](https://jahidulislamzim.netlify.app)
+- 📝 Portfolio :[https://jahidulislamzim.vercel.app](https://jahidulislamzim.vercel.app)
 - 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -132,3 +132,4 @@ alt='jahidul islam zim'
 </a>
 
 </div>
+
